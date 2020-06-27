@@ -1,0 +1,15 @@
+C:\Users\Joeyl\source\repos\manager\manager\manager\bin\Debug\netstandard2.0\Images\showPasswordImage
+C:\Users\Joeyl\source\repos\manager\manager\manager\bin\Debug\netstandard2.0\manager.deps.json
+C:\Users\Joeyl\source\repos\manager\manager\manager\bin\Debug\netstandard2.0\manager.dll
+C:\Users\Joeyl\source\repos\manager\manager\manager\bin\Debug\netstandard2.0\manager.pdb
+C:\Users\Joeyl\source\repos\manager\manager\manager\bin\Debug\netstandard2.0\Windows.Foundation.UniversalApiContract.winmd
+C:\Users\Joeyl\source\repos\manager\manager\manager\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Joeyl\source\repos\manager\manager\manager\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Joeyl\source\repos\manager\manager\manager\obj\Debug\netstandard2.0\PopUp.xaml.g.cs
+C:\Users\Joeyl\source\repos\manager\manager\manager\obj\Debug\netstandard2.0\manager.csproj.CoreCompileInputs.cache
+C:\Users\Joeyl\source\repos\manager\manager\manager\obj\Debug\netstandard2.0\manager.AssemblyInfoInputs.cache
+C:\Users\Joeyl\source\repos\manager\manager\manager\obj\Debug\netstandard2.0\manager.AssemblyInfo.cs
+C:\Users\Joeyl\source\repos\manager\manager\manager\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Joeyl\source\repos\manager\manager\manager\obj\Debug\netstandard2.0\manager.csproj.CopyComplete
+C:\Users\Joeyl\source\repos\manager\manager\manager\obj\Debug\netstandard2.0\manager.dll
+C:\Users\Joeyl\source\repos\manager\manager\manager\obj\Debug\netstandard2.0\manager.pdb

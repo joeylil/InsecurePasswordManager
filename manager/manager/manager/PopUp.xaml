@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<pages:PopupPage
+            xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="manager.PopUp"
+             xmlns:pages="clr-namespace:Rg.Plugins.Popup.Pages;assembly=Rg.Plugins.Popup">
+
+    <StackLayout Margin="1"
+                 Padding="14"
+                 Spacing="14"
+                 BackgroundColor="White"
+                 HorizontalOptions="Center"
+                 VerticalOptions="Center">
+        <StackLayout>
+            <Label Text="Title*"/>
+            <Entry FontSize="20"
+                   Placeholder="Title"
+                   x:Name="title"
+                   />
+            <Label FontSize="10" Text="Entry required" x:Name="titleError" IsVisible="False" TextColor="Red"/>
+        </StackLayout>
+        <StackLayout>
+            <Label Text="Website"/>
+            <Entry FontSize="20"
+                   Placeholder="Website"
+                   x:Name="website"
+                   />
+        </StackLayout>
+        <StackLayout>
+            <Label Text="Username*"/>
+            <Entry FontSize="20"
+                   Placeholder="Username"
+                   x:Name="username"/>
+            <Label FontSize="10" Text="Entry required" x:Name="UsernameError" IsVisible="False" TextColor="Red"/>
+        </StackLayout>
+        <StackLayout>
+            <Label Text="password*"/>
+            <Entry FontSize="20"
+                   Placeholder="Password"
+                   IsPassword="true"
+                   x:Name="password"/>
+            <Label FontSize="10" Text="Entry required" x:Name="PasswordError" IsVisible="False" TextColor="Red"/>
+        </StackLayout>
+        <Button BackgroundColor="DodgerBlue"
+                FontSize="30"
+                Text="Confirm"
+                TextColor="White"
+                Clicked="confirm" 
+                CommandParameter="{Binding .}"/>
+    </StackLayout>
+    
+</pages:PopupPage>

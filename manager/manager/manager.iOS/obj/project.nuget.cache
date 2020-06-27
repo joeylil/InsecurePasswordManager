@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "PEZ42W/H/1adaOhyJe00pDVfRJRa5M4elGWLZcWmfiX1DsFLlie7cDI8F57xphHxOSn7AsFIeBRTnix3Wcefcw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Joeyl\\source\\repos\\manager\\manager\\manager.iOS\\manager.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Joeyl\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Joeyl\\.nuget\\packages\\pclstorage\\1.0.2\\pclstorage.1.0.2.nupkg.sha512",
+    "C:\\Users\\Joeyl\\.nuget\\packages\\rg.plugins.popup\\1.2.0.223\\rg.plugins.popup.1.2.0.223.nupkg.sha512",
+    "C:\\Users\\Joeyl\\.nuget\\packages\\xamarin.essentials\\1.5.1\\xamarin.essentials.1.5.1.nupkg.sha512",
+    "C:\\Users\\Joeyl\\.nuget\\packages\\xamarin.forms\\4.5.0.396\\xamarin.forms.4.5.0.396.nupkg.sha512",
+    "C:\\Users\\Joeyl\\.nuget\\packages\\xamarin.plugins.clipboard\\2.2.1\\xamarin.plugins.clipboard.2.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}

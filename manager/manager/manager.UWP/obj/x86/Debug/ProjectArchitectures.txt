@@ -1,0 +1,1 @@
+C:\Users\Joeyl\source\repos\manager\manager\manager.UWP\manager.UWP.csproj;x86
